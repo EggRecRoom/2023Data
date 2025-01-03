@@ -1,0 +1,28 @@
+{
+    "FeaturedPlayer": {
+        "Id": 0,
+        "TitleOverride": null,
+        "UrlOverride": null
+    },
+    "FeaturedRoomGroup": {
+        "FeaturedRoomGroupId": 1,
+        "Name": "Featured Rooms",
+        "StartAt": "2023-05-02T07:00:00Z",
+        "EndAt": "2023-05-09T07:00:00Z",
+        "Rooms": []
+    },
+    "CurrentAnnouncement": {
+        "Message": "           OldRecRoom        ====>",
+        "MoreInfoUrl": "https://oldrecroom.com"
+    },
+    "InstagramImages": [],
+    "Videos": [
+        {
+            "BlobName": "test.mp4",
+            "Title": "",
+            "Description": null,
+            "ThumbnailBlobName": "hello.png",
+            "SourceUrl": ""
+        }
+    ]
+  }
