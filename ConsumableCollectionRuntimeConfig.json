@@ -1,0 +1,868 @@
+{
+  "m_Name": "ConsumableCollectionRuntimeConfig",
+  "GenericConsumables": [
+    {
+      "FileName": "[CameraFilterConsumable_BW]",
+      "ConsumableItemDesc": "frOMH6WxDEG1fBqC4_83vg",
+      "FriendlyName": "Black & White Camera Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_Dawn]",
+      "ConsumableItemDesc": "m0bVLwWGj0GuIBSb6wCk6Q",
+      "FriendlyName": "Dawn Camera Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_Dracula]",
+      "ConsumableItemDesc": "oG7CdvW7p0-S8sVe9w5vRw",
+      "FriendlyName": "Dracula Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_GhostBeard]",
+      "ConsumableItemDesc": "1c0Djlp090uBDczEobYNQw",
+      "FriendlyName": "Ghost Beard Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_GoblinKing]",
+      "ConsumableItemDesc": "6SyCoJCgo0Wd6qlPlnMOtg",
+      "FriendlyName": "Goblin King Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_Jumbotron]",
+      "ConsumableItemDesc": "Il4VmrnjDkqjmjzddqoIEw",
+      "FriendlyName": "Jumbotron Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_Sepia]",
+      "ConsumableItemDesc": "A5M-yf9tgUihq1uab3v58g",
+      "FriendlyName": "Sepia Camera Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[CameraFilterConsumable_Witch]",
+      "ConsumableItemDesc": "mL3zCEuy2UWZxAV4V-OsMA",
+      "FriendlyName": "Witch Film",
+      "Category": 0,
+      "LimitType": 0,
+      "LimitCount": 3,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[HandPotionConsumable_Goblin1]",
+      "ConsumableItemDesc": "-hy0qD-iUk-v4NHxNzanmg",
+      "FriendlyName": "High Five O'Gold ",
+      "Category": 3,
+      "LimitType": 1,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Goblin1PotionConsumableTool]"
+    },
+    {
+      "FileName": "[HandPotionConsumable_Pirate1]",
+      "ConsumableItemDesc": "YEfbJTnsR0yT_p7e7tb_kQ",
+      "FriendlyName": "High Five O'Gunpowder",
+      "Category": 3,
+      "LimitType": 1,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Pirate1PotionConsumableTool]"
+    },
+    {
+      "FileName": "[HandPotionConsumable_SciFi1]",
+      "ConsumableItemDesc": "xHOwjwpXd0GDkvBz2VqieA",
+      "FriendlyName": "High Five O'Lasers",
+      "Category": 3,
+      "LimitType": 1,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[SciFiPotionConsumableTool]"
+    },
+    {
+      "FileName": "[HandPotionConsumable_Goblin2]",
+      "ConsumableItemDesc": "VQSgL2pTLkWx4B3kwYG7UA",
+      "FriendlyName": "High Five O'Spells",
+      "Category": 3,
+      "LimitType": 1,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Goblin2PotionConsumableTool]"
+    },
+    {
+      "FileName": "[HandPotionConsumable_Dracula1]",
+      "ConsumableItemDesc": "lag2tZyB90W04lQ7ol4vMw",
+      "FriendlyName": "High Five O'Whip",
+      "Category": 3,
+      "LimitType": 1,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Dracula1PotionConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_87FlavorCake]",
+      "ConsumableItemDesc": "xwQWBB_fekmTqRc2LB92cg",
+      "FriendlyName": "87 Flavor Cake",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Cake87FlavorConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Donut_Assorted]",
+      "ConsumableItemDesc": "ZuvkidodzkuOfGLDnTOFyg",
+      "FriendlyName": "Assorted Donuts",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Donuts_Assorted_ConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_BubbleTea]",
+      "ConsumableItemDesc": "JxAl1wVJ1UGAjoT3m3ilug",
+      "FriendlyName": "Bubble Tea",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[BubbleTeaConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Bubbly]",
+      "ConsumableItemDesc": "iiGTvhOCHkOTNJhb16Zbyw",
+      "FriendlyName": "Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[BubblyConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_CakePops]",
+      "ConsumableItemDesc": "Efd3_dy4ZEqWr7i6j5x0aA",
+      "FriendlyName": "Cake Pops",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CakePopsConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_CandyApple]",
+      "ConsumableItemDesc": "EmPvh3I6L0uK_1i8Wy_ylQ",
+      "FriendlyName": "Candy Apples",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CandyAppleConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_YellowCake]",
+      "ConsumableItemDesc": "Sk_1sm88ZU2zpWn01Lv7hw",
+      "FriendlyName": "Celebration Cake",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CakeYellowConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_CheesePizza]",
+      "ConsumableItemDesc": "5hIAZ9wg5EyG1cILf4FS2A",
+      "FriendlyName": "Cheese Pizza",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CheesePizzaConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_ChocolateCake]",
+      "ConsumableItemDesc": "BbJb1_0g4EGJP_CeNrjpew",
+      "FriendlyName": "Chocolate Cake",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CakeChocolateConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Donut_Frosted]",
+      "ConsumableItemDesc": "mMCGPgK3tki5S_15q2Z81A",
+      "FriendlyName": "Chocolate Frosted Donuts",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Donuts_Frosted_ConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Popcorn_Chocolate]",
+      "ConsumableItemDesc": "lWN_g4OcN0S0C4n6cSZq4g",
+      "FriendlyName": "Chocolate Popcorn",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Popcorn_Chocolate_ConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_ChocolateVariety]",
+      "ConsumableItemDesc": "K9RbXo-4U0q6NbGu8VL1Sw",
+      "FriendlyName": "Chocolate Variety Box",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[ChocolateVarietyConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Creator_Bubbly]",
+      "ConsumableItemDesc": "KFd3wxfnfUybCVkfj1pz1A",
+      "FriendlyName": "Creator Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[BubblyConsumable_Creator_Tool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Popcorn_Flaming]",
+      "ConsumableItemDesc": "uswFSANaZES0EJMLfOgNSw",
+      "FriendlyName": "Flaming Popcorn",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Popcorn_Flaming_ConsumableTool]"
+    },
+    {
+      "FileName": "(FoodConsumable_Forbidden_Bubbly)",
+      "ConsumableItemDesc": "6F-kHEhKp0-jYli7fP5yIQ",
+      "FriendlyName": "Forbidden Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "(BubblyConsumable_Forbidden_Tool)"
+    },
+    {
+      "FileName": "(FoodConsumable_Forsaken_Bubbly)",
+      "ConsumableItemDesc": "F4SOI0n8k0eo21jvbxsERA",
+      "FriendlyName": "Forsaken Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "(BubblyConsumable_Forsaken_Tool)"
+    },
+    {
+      "FileName": "[FoodConsumable_Donut_Glazed]",
+      "ConsumableItemDesc": "7OZ5AE3uuUyqa0P-2W1ptg",
+      "FriendlyName": "Glazed Donuts",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Donuts_Glazed_ConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_HawaiianPizza]",
+      "ConsumableItemDesc": "_jnjYGBcyEWY5Ub4OezXcA",
+      "FriendlyName": "Hawaiian Pizza",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HawaiianPizzaConsumableTool]"
+    },
+    {
+      "FileName": "(FoodConsumable_Donut_Invasion)",
+      "ConsumableItemDesc": "-_VNAj3P10aWCCJZoVTF4Q",
+      "FriendlyName": "Invasion Donuts",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "(Donuts_Invasion_ConsumableTool)"
+    },
+    {
+      "FileName": "[FoodConsumable_Latte]",
+      "ConsumableItemDesc": "P15H1ONBhk-5DYYjid1ttg",
+      "FriendlyName": "Latte",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[LatteConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_PastelCake]",
+      "ConsumableItemDesc": "TG_VYTUdvkeT6zG6o1yZlw",
+      "FriendlyName": "Pastel Pâtisserie",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CakePastelConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_PepperoniPizza]",
+      "ConsumableItemDesc": "mq23W-RSP0G8iGNLdrcpUw",
+      "FriendlyName": "Pepperoni Pizza",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[PepperoniPizzaConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Popcorn_Butter]",
+      "ConsumableItemDesc": "QRx0aSTT9keMFdAJMQHdTg",
+      "FriendlyName": "Popcorn",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Popcorn_Butter_ConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Premium_Bubbly]",
+      "ConsumableItemDesc": "4TGctDRPiE2GWiP3CKQqLw",
+      "FriendlyName": "Premium Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[BubblyConsumable_Premium_Tool]"
+    },
+    {
+      "FileName": "[FoodConsumable_RecCon_Bubbly]",
+      "ConsumableItemDesc": "YNaldB09Kk2kiWVzrmNUGQ",
+      "FriendlyName": "RecCon Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[BubblyConsumableRecConTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_RedApples]",
+      "ConsumableItemDesc": "uMHrUPLYFk2rJOW_uop5Aw",
+      "FriendlyName": "Red Apples",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[RedApplesConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_RedVelvetCake]",
+      "ConsumableItemDesc": "LwaotjVEBUir0-w8126n_g",
+      "FriendlyName": "Red Velvet Cake",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CakeRedVelvetConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_RootBeer]",
+      "ConsumableItemDesc": "JfnVXFmilU6ysv-VbTAe3A",
+      "FriendlyName": "Root Beer",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[RootBeerConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_Pretzel_Salted]",
+      "ConsumableItemDesc": "InQ25wQMGkG_bvuD5rf2Ag",
+      "FriendlyName": "Salted Pretzels",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Pretzel_Salted_ConsumableTool]"
+    },
+    {
+      "FileName": "(FoodConsumable_Donut_Snowman)",
+      "ConsumableItemDesc": "jdrRJ7deWk2P9aRRrPy3zw",
+      "FriendlyName": "Snowman Donuts",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "(Donuts_Snowman_ConsumableTool)"
+    },
+    {
+      "FileName": "[FoodConsumable_SupremePizza]",
+      "ConsumableItemDesc": "wUCIKdJSvEmiQHYMyx4X4w",
+      "FriendlyName": "Supreme Pizza",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[SupremePizzaConsumableTool]"
+    },
+    {
+      "FileName": "(FoodConsumable_Survey_Bubbly)",
+      "ConsumableItemDesc": "lFivdMXwHk2eMhmngMB8yA",
+      "FriendlyName": "Survey Bubbly",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "(BubblyConsumable_Survey_Tool)"
+    },
+    {
+      "FileName": "[FoodConsumable_Sushi]",
+      "ConsumableItemDesc": "4My42w1D1Uu3-98pXB-x_Q",
+      "FriendlyName": "Sushi",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[SushiConsumableTool]"
+    },
+    {
+      "FileName": "[FoodConsumable_VRCola]",
+      "ConsumableItemDesc": "YpL6eN6sKEquOYIYnbhvew",
+      "FriendlyName": "VR Cola",
+      "Category": 4,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "VRColaConsumableTool]"
+    },
+    {
+      "FileName": "[KOConsumable_BearClaw]",
+      "ConsumableItemDesc": "ZtZnYBpKkECJlhHmkj4MiA",
+      "FriendlyName": "KO - Bear Claw",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_Bees]",
+      "ConsumableItemDesc": "g3kxdlJv5kO8PuBXveM48w",
+      "FriendlyName": "KO - Bees",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_Cola]",
+      "ConsumableItemDesc": "wx--2TPTdEuGAqLCjs9Qag",
+      "FriendlyName": "KO - Cola",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_Fangs]",
+      "ConsumableItemDesc": "XOZcxx-Klkyhe-MDbTqiwA",
+      "FriendlyName": "KO - Fangs",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_FryingPan]",
+      "ConsumableItemDesc": "uGVFydNSokCXFAmXu3aceQ",
+      "FriendlyName": "KO - FryingPan",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_Grenade]",
+      "ConsumableItemDesc": "EAhk3ZZdXEmH5wRAXXT24Q",
+      "FriendlyName": "KO - Grenade",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_Ranger]",
+      "ConsumableItemDesc": "Av-wvjXvvkmNVSz7ZZnTiA",
+      "FriendlyName": "KO - Ranger",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_Shield]",
+      "ConsumableItemDesc": "5AJin8T2iEG7BzOPOgx2HA",
+      "FriendlyName": "KO - Shield",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_SkullWings]",
+      "ConsumableItemDesc": "U38Qe6rhEk6mFvArHfYjng",
+      "FriendlyName": "KO - Skull Wings",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_StarPower]",
+      "ConsumableItemDesc": "yvqSbK2czkS2sUCRdrGaEw",
+      "FriendlyName": "KO - Star Power",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[KOConsumable_TireTrack]",
+      "ConsumableItemDesc": "J1WqFNUWo0OBi4LGKPDHWw",
+      "FriendlyName": "KO - Tire Track",
+      "Category": 5,
+      "LimitType": 0,
+      "LimitCount": 100,
+      "AutoActivateNextItem": true,
+      "ConsumableToolName": ""
+    },
+    {
+      "FileName": "[VFXConsumable_SparklerBox]",
+      "ConsumableItemDesc": "hRdK6NGfAkGBmYSs_xGzXg",
+      "FriendlyName": "Sparklers",
+      "Category": 8,
+      "LimitType": 0,
+      "LimitCount": 1,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[Sparklers_ConsumableTool]"
+    }
+  ],
+  "HairDyeConsumables": [
+    {
+      "FileName": "[HairDyePotionConsumable_Orange]",
+      "ConsumableItemDesc": "xr45B5QC4EyKXThtwZto_A",
+      "FriendlyName": "Bucket Orange Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Orange]",
+      "HairColorGUID": "1I8AD333gku-iOQlS6WWlw"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Blue]",
+      "ConsumableItemDesc": "JwJeh15cjkOc9WWaGRibDQ",
+      "FriendlyName": "Butterfly Blue Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Blue]",
+      "HairColorGUID": "yTdx1nVVtECU8Vh7EC8dGA"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_DarkRed]",
+      "ConsumableItemDesc": "3R1bzI35fkChoFFRFbponQ",
+      "FriendlyName": "Cauldron Crimson Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_DarkRed]",
+      "HairColorGUID": "XCwNFMT1i0i9Q9gJYTLPUQ"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Cyan]",
+      "ConsumableItemDesc": "x9ntSHto50GpNWPwYCLUEg",
+      "FriendlyName": "Circuit Cerulean Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Cyan]",
+      "HairColorGUID": "W5E2gDCKY0SXaKytP89-OA"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelTeal]",
+      "ConsumableItemDesc": "4L3JoaqkAUa1kz98nciPXw",
+      "FriendlyName": "EDM Emerald Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelTeal]",
+      "HairColorGUID": "wXJZbYCkZE-NMbPVf2YuFA"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Green]",
+      "ConsumableItemDesc": "YaVzcoefhk6zjbNDELLx8A",
+      "FriendlyName": "Frontier Forest Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Green]",
+      "HairColorGUID": "LBz3a9520kiOOMMOwsTExg"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_DarkPurple]",
+      "ConsumableItemDesc": "iEtWDLmv7ES87J4NE_TGJQ",
+      "FriendlyName": "Gizmo Grape Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_DarkPurple]",
+      "HairColorGUID": "QmgjYhH_L0q58eF5SWeDhQ"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelGreen]",
+      "ConsumableItemDesc": "jA3zzS31zEitBxtRCk7oew",
+      "FriendlyName": "Goblin Green Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelGreen]",
+      "HairColorGUID": "TylV8M6zjUaadhxHPWAS-w"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelCyan]",
+      "ConsumableItemDesc": "P7HixsdkskmzgFMdFJ-WdA",
+      "FriendlyName": "H2Oasis Blue Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelCyan]",
+      "HairColorGUID": "Bjsgo9ddeUCk3zW1-DdJbw"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Teal]",
+      "ConsumableItemDesc": "5Ugg8k19n0WH8GPFCDWTCQ",
+      "FriendlyName": "Jungle Jade Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Teal]",
+      "HairColorGUID": "Sc8S3QiTIUuXNJZD6geY1Q"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Red]",
+      "ConsumableItemDesc": "P1kCuPlRc0-NAg6JUlEH_g",
+      "FriendlyName": "KREQ Red Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Red]",
+      "HairColorGUID": "xyHGGFKNWEOTnXloDFahPQ"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelPurple]",
+      "ConsumableItemDesc": "Hh_O_RejGE-_PubyM8xHaw",
+      "FriendlyName": "Lounge Lavender Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelPurple]",
+      "HairColorGUID": "qp_vRXZQPU2rlx_IU1Vr8Q"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelPink]",
+      "ConsumableItemDesc": "s2pxukIEt0uDeGVJmZayOw",
+      "FriendlyName": "Maker Mauve Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelPink]",
+      "HairColorGUID": "G129V_kVXkSLN2OG8EjSqQ"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Pink]",
+      "ConsumableItemDesc": "vXL0rrAk70SFxJlaJk0uqQ",
+      "FriendlyName": "Mousebot Magenta Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Pink]",
+      "HairColorGUID": "8k_gZA_lrEyJxI19GrcAZg"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelBlue]",
+      "ConsumableItemDesc": "UAOH6ccEbEmehJg8XW_D8w",
+      "FriendlyName": "Paula's Periwinkle Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelBlue]",
+      "HairColorGUID": "_2QGtfHzuUSq0eyI84rImw"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Yellow]",
+      "ConsumableItemDesc": "o0hG5O_eaUO0R8vPyW-Hvg",
+      "FriendlyName": "Pirate Gold Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Yellow]",
+      "HairColorGUID": "pQNfh-3DsEGWfiIls6Qf6g"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_Purple]",
+      "ConsumableItemDesc": "xRtKWR-D40GUW43R0EFpNg",
+      "FriendlyName": "Propulsion Purple Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_Purple]",
+      "HairColorGUID": "53y1prYATU2drZDS-jpaqg"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelOrange]",
+      "ConsumableItemDesc": "AQTYAh1it0GIGdgGO5sUHQ",
+      "FriendlyName": "PVPeach Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelOrange]",
+      "HairColorGUID": "0RUmjv2bL0ydbKU61dlqlg"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_DarkBlue]",
+      "ConsumableItemDesc": "8vlVslaWaUyFS-iDHhxW9g",
+      "FriendlyName": "Ranger Roy-Al Blue Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_DarkBlue]",
+      "HairColorGUID": "3ksu_FLaukeJ-YE90jb4Ow"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelRed]",
+      "ConsumableItemDesc": "STFKahjHJ0SQJPfoDe4S1g",
+      "FriendlyName": "Rebel Rose Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelRed]",
+      "HairColorGUID": "aziIarpSREmcT6vihduPwA"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_DarkPink]",
+      "ConsumableItemDesc": "eJh_BQ5y4UWwiMJzBKcwMQ",
+      "FriendlyName": "Recreational Raspberry Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_DarkPink]",
+      "HairColorGUID": "yejur5BbR0mevbH-rzgXYA"
+    },
+    {
+      "FileName": "[HairDyePotionConsumable_PastelYellow]",
+      "ConsumableItemDesc": "inIuPzhhOEmz1RI8mZtSLg",
+      "FriendlyName": "Standee Sandy Hair Dye",
+      "Category": 6,
+      "LimitType": 2,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[HairDyePotionConsumableTool_PastelYellow]",
+      "HairColorGUID": "H65ddsxAY0m2sccMrF48Aw"
+    }
+  ],
+  "CouponConsumables": [
+    {
+      "FileName": "[CouponConsumable_20%Tokens]",
+      "ConsumableItemDesc": "50oCPkzd3EerBd7nYNdkCw",
+      "FriendlyName": "20% Off Coupon",
+      "Category": 7,
+      "LimitType": 2,
+      "LimitCount": 604799,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[CouponConsumableTool]",
+      "DiscountType": 1,
+      "StorefrontType": 0,
+      "CurrencyType": 2,
+      "CouponValue": 20
+    }
+  ],
+  "HeadPotionConsumables": [
+    {
+      "FileName": "[HeadPotionConsumable_DKMode]",
+      "ConsumableItemDesc": "Tpxqe_lycUelySRHM8B0Vw",
+      "FriendlyName": "Ego Potion",
+      "Category": 2,
+      "LimitType": 1,
+      "LimitCount": 120,
+      "AutoActivateNextItem": false,
+      "ConsumableToolName": "[EgoPotionConsumableTool]",
+      "PotionType": 1
+    }
+  ]
+}
