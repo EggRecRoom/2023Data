@@ -26,5 +26,19 @@
                 "UnityAssetId": "58784cb3-204c-47e0-9cf3-23a76b94ae90"
             }
         ]
+    },
+    {
+        "CIVPEMESQAIUBLZHXUNA": "Murder",
+        "BHPRHUDFBWZCEIJFVQHG": "The original Tudor Mansion. Up to 26 players can join a glamorous party until a blackout strikes, allowing one player who is the Murderer to murder one victim at a time every blackout, until 5 victims are claimed, or until either the detective arrests the Murderer, or the innocents find the light switch 5 times.",
+        "JLKHCENUKAWFUMUGOBOS": "imgName",
+        "NLZGBCXTQDCXNQYNWMSZ": [
+            {
+                "XABBIXTJPMRVUDZURJSQ": "DustyMansion",
+                "DXLCSNGZJQYZCJCCHKAQ": 1,
+                "GKDQCTIXPBRUUTAORXFX": "eedb0dc19ab14067be02a402c0a51c68.room",
+                "TCUGHHWOAWGHMQYQAZNY": "a75f7547-79eb-47c6-8986-6767abcb4f92",
+                "UnityAssetId": null
+            }
+        ]
     }
 ]
